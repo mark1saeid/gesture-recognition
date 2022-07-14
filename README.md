@@ -1,1 +1,2 @@
-# hand-landmark-2d-estimation
+# gesture-recognition
+
